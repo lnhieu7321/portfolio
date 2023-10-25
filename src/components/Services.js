@@ -7,7 +7,7 @@ const skill = [
   {
     name: 'Web frontend',
     description:
-    Imgg
+      'html,css'
   },
   {
     name: 'Programming language',
