@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
-import Imgg from '../assets/avata.png'
+
 
 const skill = [
   {
