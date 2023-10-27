@@ -62,17 +62,17 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className=' h-[210px] w-full group-hover:scale-125 transition-all duration-500' src={Img2} alt="" />
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-500 z-50'>
-                <span className='text-gradient'>UX/UI Design</span>
+                <span className='text-gradient'>Website</span>
 
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-4 transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>project title</span>
+                <span className='text-3xl text-white'>Support management website</span>
               </div>
             </div>
 
             <div className=' p-5'>
               <button className='btn btn-sm'>Review</button>
-              <button className='btn btn-sm float-right'>Source code</button>
+              <button className='btn btn-sm float-right'><a href='https://github.com/lnhieu7321/Doan'>Source code</a></button>
             </div>
           </div>
           <div className='w-[400px] px-8'>
@@ -80,17 +80,17 @@ const Work = () => {
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className=' h-[210px] w-full group-hover:scale-125 transition-all duration-500' src={Img2} alt="" />
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-500 z-50'>
-                <span className='text-gradient'>UX/UI Design</span>
+                <span className='text-gradient'>Application</span>
 
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-4 transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>project title</span>
+                <span className='text-3xl text-white'>social networking application</span>
               </div>
             </div>
 
             <div className=' p-5'>
               <button className='btn btn-sm'>Review</button>
-              <button className='btn btn-sm float-right'>Source code</button>
+              <button className='btn btn-sm float-right'><a href='https://github.com/lnhieu7321/Tikkey/tree/main/IntagramApp/'>Source code</a></button>
             </div>
           </div>
           
