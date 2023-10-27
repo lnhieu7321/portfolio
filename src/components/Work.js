@@ -84,7 +84,7 @@ const Work = () => {
 
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-4 transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>social networking application</span>
+                <span className='text-3xl text-white'>Social networking application</span>
               </div>
             </div>
 
